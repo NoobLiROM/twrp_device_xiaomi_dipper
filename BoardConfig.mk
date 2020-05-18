@@ -27,7 +27,7 @@
 
 # SHRP Variables
 SHRP_PATH := device/xiaomi/dipper
-SHRP_MAINTAINER := DarkAngelGR
+SHRP_MAINTAINER := ALKALiKong
 SHRP_DEVICE_CODE := dipper
 SHRP_EDL_MODE := 1
 SHRP_EXTERNAL := /external_sd
